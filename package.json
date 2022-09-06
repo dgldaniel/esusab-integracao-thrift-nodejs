@@ -1,0 +1,10 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "thrift": "^0.16.0",
+    "uuidv4": "^6.2.13"
+  }
+}
